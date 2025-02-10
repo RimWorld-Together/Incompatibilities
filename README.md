@@ -1,4 +1,5 @@
 # RimWorld Together Incompatibilities
+The official incompatibility list for the RimWorld Together mod.
 
 > [!NOTE]
 > This is a list containing all the confirmed mod incompatibilities with Rimworld Together, the list is gathered thanks to our fellow contributors!
