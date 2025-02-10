@@ -1,5 +1,5 @@
 # RimWorld Together Incompatibilities
-The official incompatibility list for the RimWorld Together mod.
+The official incompatibility list for the [RimWorld Together](https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691) mod.
 
 > [!NOTE]
 > This is a list containing all the confirmed mod incompatibilities with Rimworld Together, the list is gathered thanks to our fellow contributors!
